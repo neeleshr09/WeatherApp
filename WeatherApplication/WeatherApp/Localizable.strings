@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  WeatherApp
+
+  Created by Neelesh Rai on 30/05/21.
+  Copyright © 2021 Neelesh Rai. All rights reserved.
+*/
+
+//Weather type
+"cloud" = "Clouds";
+"mist" = "Mist";
+"haze" = "Haze";
+"rain" = "Rain";
+"smoke" = "Smoke";
+"drizzle" = "Drizzle";
+
+//Alert Messages
+"favourite.message" = "Current weather details added in the favourite list";
+"unFavourite.message" = "Current weather removed from the favourite list";
+"list.empty.message" = "Favourite list is empty";
+"internet.unavailable.message" = "Internet connection not available";
+"offline.data.display.message" = "Internet connection not available.\nLast favourite offline data displayed";
+"location.access.notification" = "LocationAccessUpdated";
+"location.access.message" = "Allow location to display data";
+"invalid.data.message" = "Unable to do favourite, invalid data";
+
